@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/02/28 09:50:46.000.784,=C:\Users\3os Anos\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/03/13 09:09:16.000.402,=C:\Users\3os Anos\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/03/13 09:30:41.000.917,=C:\Users\3os Anos\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/03/14 11:20:37.000.998,=C:\Users\3os Anos\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/03/14 11:25:13.000.884,=C:\Users\3os Anos\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/03/14 11:43:42.000.699,=C:\Users\3os Anos\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/04/04 11:57:03.000.199,=C:\Users\3os Anos\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/04/10 10:49:50.000.908,=C:\Users\3os Anos\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/06/05 08:02:57.000.820,=C:\Users\3os Anos\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/06/05 08:07:48.000.393,C:\Users\3os Anos\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\351-2023\HenriqueKauan\Outsider_perifericos\fonts\U_splash.dfm</Transaction>
+    <Transaction>2023/06/05 08:07:48.000.393,C:\Users\3os Anos\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\351-2023\HenriqueKauan\Outsider_perifericos\fonts\U_splash.pas</Transaction>
+    <Transaction>2023/06/05 08:08:09.000.014,C:\Users\3os Anos\Documents\Embarcadero\Studio\Projects\Project2.dproj=C:\351-2023\HenriqueKauan\Outsider_perifericos\Outsider.dproj</Transaction>
+    <Transaction>2023/06/05 08:30:41.000.641,=C:\351-2023\HenriqueKauan\Outsider_perifericos\Unit1.pas</Transaction>
+    <Transaction>2023/06/05 08:36:29.000.444,C:\351-2023\HenriqueKauan\Outsider_perifericos\fonts\U_cadastro.dfm=C:\351-2023\HenriqueKauan\Outsider_perifericos\Unit1.dfm</Transaction>
+    <Transaction>2023/06/05 08:36:29.000.444,C:\351-2023\HenriqueKauan\Outsider_perifericos\fonts\U_cadastro.pas=C:\351-2023\HenriqueKauan\Outsider_perifericos\Unit1.pas</Transaction>
+    <Transaction>2023/06/05 08:39:06.000.072,=C:\351-2023\HenriqueKauan\Outsider_perifericos\Unit1.pas</Transaction>
+    <Transaction>2023/06/05 08:40:14.000.762,C:\351-2023\HenriqueKauan\Outsider_perifericos\fonts\U_cadlogin.dfm=C:\351-2023\HenriqueKauan\Outsider_perifericos\Unit1.dfm</Transaction>
+    <Transaction>2023/06/05 08:40:14.000.762,C:\351-2023\HenriqueKauan\Outsider_perifericos\fonts\U_cadlogin.pas=C:\351-2023\HenriqueKauan\Outsider_perifericos\Unit1.pas</Transaction>
+    <Transaction>2023/06/05 08:44:53.000.093,=C:\351-2023\HenriqueKauan\Outsider_perifericos\Unit1.pas</Transaction>
+    <Transaction>2023/06/05 08:49:23.000.274,C:\351-2023\HenriqueKauan\Outsider_perifericos\fonts\U_dm.dfm=C:\351-2023\HenriqueKauan\Outsider_perifericos\Unit1.dfm</Transaction>
+    <Transaction>2023/06/05 08:49:23.000.274,C:\351-2023\HenriqueKauan\Outsider_perifericos\fonts\U_dm.pas=C:\351-2023\HenriqueKauan\Outsider_perifericos\Unit1.pas</Transaction>
+    <Transaction>2023/06/19 08:08:54.000.089,=C:\351-2023\HenriqueKauan\Outsider_perifericos\Unit1.pas</Transaction>
+    <Transaction>2023/06/19 08:09:07.000.133,C:\351-2023\HenriqueKauan\Outsider_perifericos\Unit1.pas=C:\351-2023\HenriqueKauan\Outsider_perifericos\fonts\U_menuprincipal.pas</Transaction>
+    <Transaction>2023/06/19 08:09:07.000.133,C:\351-2023\HenriqueKauan\Outsider_perifericos\Unit1.dfm=C:\351-2023\HenriqueKauan\Outsider_perifericos\fonts\U_menuprincipal.dfm</Transaction>
+    <Transaction>2023/06/19 08:09:38.000.543,=C:\351-2023\HenriqueKauan\Outsider_perifericos\Unit1.pas</Transaction>
+    <Transaction>2023/06/19 08:11:43.000.039,C:\351-2023\HenriqueKauan\Outsider_perifericos\Unit1.pas=C:\351-2023\HenriqueKauan\Outsider_perifericos\fonts\U_biblio.pas</Transaction>
+    <Transaction>2023/06/23 19:53:35.000.288,=C:\Programação\Outsider\Outsider_perifericos\Unit1.pas</Transaction>
+    <Transaction>2023/06/23 19:56:08.000.639,C:\Programação\Outsider\Outsider_perifericos\fonts\U_loja.dfm=C:\Programação\Outsider\Outsider_perifericos\Unit1.dfm</Transaction>
+    <Transaction>2023/06/23 19:56:08.000.639,C:\Programação\Outsider\Outsider_perifericos\fonts\U_loja.pas=C:\Programação\Outsider\Outsider_perifericos\Unit1.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="fonts"/>
+    <File Path="fonts\U_biblio.pas"/>
+    <File Path="fonts\U_cadastro.pas"/>
+    <File Path="fonts\U_cadastro.dfm"/>
+    <File Path="fonts\U_cadlogin.pas"/>
+    <File Path="fonts\U_cadlogin.dfm"/>
+    <File Path="fonts\U_dm.pas"/>
+    <File Path="fonts\U_dm.dfm"/>
+    <File Path="fonts\U_loja.pas"/>
+    <File Path="fonts\U_loja.dfm"/>
+    <File Path="fonts\U_menuprincipal.pas"/>
+    <File Path="fonts\U_menuprincipal.dfm"/>
+    <File Path="fonts\U_splash.pas"/>
+    <File Path="fonts\U_splash.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
